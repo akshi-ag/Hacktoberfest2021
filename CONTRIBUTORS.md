@@ -34,6 +34,7 @@
 - GitHub: [Mansi V Jain](https://github.com/Mansivjain00)
 
 
+
 #### Name: Vibhuti Jain
 - Place: Mathura, UP, India
 - Bio: Working Professional
@@ -219,5 +220,10 @@
 - Place: Bilaspur, Chhattisgarh, India
 - Bio: Bachelor of Science Student
 - GitHub: [Dev Patel](https://github.com/devnpatel)
+
+#### Name: Akshi Agarwal
+- Place: Jaipur,Rajasthan, India
+- Bio: third year btech student
+- GitHub: [Akshi Agarwal](https://github.com/akshi-ag)
 
 
